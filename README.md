@@ -33,17 +33,20 @@ A list of amazing Swift resources. UI Components, Tutorials and more
 * [ImagePicker](https://github.com/hyperoslo/ImagePicker) Reinventing how choosing images works
 * [XLActionController](https://github.com/xmartlabs/XLActionController) Fully customizable and extensible action sheet controller written in Swift 2
 * [Whisper](https://github.com/hyperoslo/Whisper)a component that will make the task of display messages and in-app notifications simple
+
 ### Layouts 
 * [Neon](https://github.com/mamaral/Neon) powerful Swift programmatic UI layout framework
 * [SFFocusViewLayout](https://github.com/fdzsergio/SFFocusViewLayout) UICollectionViewLayout with focused content
-
+ 
 ### Frameworks 
 * [Chatto](https://github.com/badoo/Chatto) A lightweight framework to build chat applications, from Badoo
 * [MaterialKit](https://github.com/CosmicMind/MaterialKit) a beautiful Material Design framework in Swift
+ 
 ## Tutorials 
 * [Hacking With Swift](https://www.hackingwithswift.com/) Covers iOS9 & Swift2 with lots of sample projects
 * [iOS9 Day-by-Day Tutorials](https://www.shinobicontrols.com/blog/ios9-day-by-day-index) Shinobi Control's iOS9 specific tutorials
 * [LeetCode-Solutions-in-Swift](https://github.com/diwu/LeetCode-Solutions-in-Swift) Get prepared for you next iOS job interview by studying these solutions in Swift 2.1
+
 ## Utility Projects
 * [Simplicity](https://github.com/SimplicityMobile/Simplicity) A simple way to implement Facebook and Google login 
 * [InceptionTouch](https://github.com/richzertuche/InceptionTouch) 3DTouch for every device 
@@ -64,11 +67,14 @@ A list of amazing Swift resources. UI Components, Tutorials and more
 * [Kingfisher](https://github.com/onevcat/Kingfisher) A lightweight library for downloading and caching images from the web
 * [swiftScan](https://github.com/MxABC/swiftScan) A barcode and QR code scanner
 * [IDZSwiftCommonCrypto](https://github.com/iosdevzone/IDZSwiftCommonCrypto) a wrapper for Apple's Common Crypto library written in Swift
+
 ## Developer Tools 
 * [fastlane](https://github.com/fastlane/fastlane) The easiest way to automate building and releasing your iOS apps
 * [SwiftGen](https://github.com/AliSoftware/SwiftGen) a collection of Swift tools to generate Swift code
 * [ViewMonitor](https://github.com/daisuke0131/ViewMonitor) Measure view positions with accuracy
 * [netfox](https://github.com/kasketis/netfox) A lightweight, one line setup, iOS network debugging library
+
+
 ## Other collections
 * [fantastic-ios-animation] (https://github.com/onmyway133/fantastic-ios-animation)  A collection of iOS animation repos
 * [Awesome-Swift-Education](https://github.com/hsavit1/Awesome-Swift-Education) Resources for learning about Swift 
